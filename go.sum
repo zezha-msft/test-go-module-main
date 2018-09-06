@@ -1,0 +1,6 @@
+github.com/zezha-msft/test-go-module-depone v1.2.0 h1:kNqQ0+t9p4NpPuYK7DYEguWHLp3ON+vQ8ZexYS0eShA=
+github.com/zezha-msft/test-go-module-depone v1.2.0/go.mod h1:DSUJ9LR5fQixlOjTVlBc/tWSXeRVhZhQ1xr/c0t6RKw=
+github.com/zezha-msft/test-go-module-depone/v2 v2.3.0 h1:/fx7eDw5RNzGKfvjSbtUnKsbrhZb+RlvXMgihkV5MCQ=
+github.com/zezha-msft/test-go-module-depone/v2 v2.3.0/go.mod h1:mXmSXpfvoyMnRki6X30WacByUVGB8hAq3HhEgkrjRXg=
+github.com/zezha-msft/test-go-module-depone/v3 v3.0.0 h1:hXfGYaDz+tlG1p7C/76+dCquFrr6pCPSjZWV8SbzF88=
+github.com/zezha-msft/test-go-module-depone/v3 v3.0.0/go.mod h1:NNZMJ3EKD8In22qy1B1sCwXL8rHqZrg1nc2YV1HXYpI=
